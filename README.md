@@ -1,16 +1,33 @@
-## Hi there 👋
+# Pakistan Observer
 
-<!--
-**PakistanObserver/Pakistanobserver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📰 Latest Pakistan and World News Updates
 
-Here are some ideas to get you started:
+## Categories
+- Breaking News
+- Pakistan
+- World
+- Business
+- Technology
+- Sports
+- Entertainment
+- Gold Rates
+- Petrol Price 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Official Website
+https://pakobserver.net
+
+## Follow Us
+- Facebook: https://facebook.com/pakobserver
+- X: https://x.com/pakobserver
+- Instagram: https://instagram.com/pakobserver
+
+## About
+Pakistan Observer covers breaking news, politics, business, sports, technology, and global affairs with trusted and fast reporting.
+
+## Latest Features
+✅ Petrol Prices Pakistan  
+✅ Gold Rates  
+✅ Breaking News  
+✅ International News  
+✅ Business Updates  
+✅ Sports Coverage
